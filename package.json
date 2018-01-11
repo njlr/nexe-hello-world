@@ -1,0 +1,12 @@
+{
+  "name": "nexe-hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "nexe index.js -o hello-world"
+  },
+  "devDependencies": {
+    "nexe": "^2.0.0-rc.22"
+  }
+}
